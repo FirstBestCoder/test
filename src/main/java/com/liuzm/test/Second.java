@@ -38,7 +38,7 @@ public class Second {
                 int sortIndex = count[index]++;
                 result[sortIndex] = array[i];
             }
-            for (int i = 0; i < length; i++) {
+            for      (int i = 0; i < length; i++) {
                 array[i] = result[i];
             }
             for (int i = 0; i < 10; i++) {

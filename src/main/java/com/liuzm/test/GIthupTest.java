@@ -1,7 +1,7 @@
 package com.liuzm.test;
 
 public class GIthupTest {
-    public static void main(String[] args) {
+    public   static void main(String[] args) {
 
     }
 }
